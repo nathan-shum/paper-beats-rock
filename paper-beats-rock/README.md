@@ -1,4 +1,4 @@
-# Created By Nathan Shum
+# Created by Nathan Shum
 
 **Java-based 2D game where you search for a goals in the dark on 
       randomly generated maps dodging enemy encounters
